@@ -1,0 +1,31 @@
+{
+  "name": "assign2",
+  "version": "1.0.0",
+  "description": "assignment 2",
+  "source": "/src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sriramrohit/react.git"
+  },
+  "keywords": [
+    "hi"
+  ],
+  "author": "rohit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sriramrohit/react/issues"
+  },
+  "homepage": "https://github.com/sriramrohit/react#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
